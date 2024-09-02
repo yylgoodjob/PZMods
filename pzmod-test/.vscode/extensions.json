@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "planc.pzmod-extention",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "mhutchie.git-graph",
+        "github.vscode-pull-request-github",
+        "satoren.lualint",
+        "slevesque.vscode-3dviewer"
+    ]
+}
