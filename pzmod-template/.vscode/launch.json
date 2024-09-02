@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "command": "start steam://rungameid/108600 -debug; get-content -Wait -Tail 1000 $env:USERPROFILE/Zomboid/console.txt",
+            "name": "Launch Project Zomboid - Steam",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "command": "#{path/to/PZWorldEd.exe}",
+            "name": "Launch PZWorldEd",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
